@@ -13,5 +13,6 @@
       src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
     />
   </a>
-  [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/cqjy.svg)](https://betteruptime.com/?utm_source=status_badge)
+  
 </p>
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/cqjy.svg)](https://betteruptime.com/?utm_source=status_badge)
