@@ -1,14 +1,22 @@
-# Hi 👋, I'm Guglielmo Aka Guglieeee
-
-## I'm a slacker developer
-
-
-- 🔭 I’m currently studying at [Istituto Volterra](https://www.istitutovolterra.edu.it/)
-- 🌱 I’m currently learning Lua and Js
-- 🤔 I’m develop with [Buffolollo](https://github.com/Buffolollo)
-- 📫 How to reach me: info@gugliee.it
-- ⚡ Fun fact: I always forget about commas 
-
-### SuS Posting
-
-[Here](https://dsc.gg/uccellini)
+<p align = 'center'>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guglieeee&layout=compact&theme=github_dark&hide_border=true"
+  />
+  <br>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=guglieeee&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"
+  />
+  <br><br>
+  <a href="https://dsc.gg/uccellini">
+    <img
+      alt="Support"
+      src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
+    />
+  </a>
+  <a href="https://devvolt.dev/portfolio/gugliee">
+    <img
+      alt="Donate"
+      src="https://img.shields.io/badge/kofi-2BB3EE?logo=kofi&logoColor=white&style=for-the-badge"
+    />
+  </a>
+</p>
