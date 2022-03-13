@@ -1,4 +1,4 @@
-<center>[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/cqjy.svg)](https://betteruptime.com/?utm_source=status_badge)</center>
+<center> <a>[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/cqjy.svg)](https://betteruptime.com/?utm_source=status_badge)</a> </center>
 <p align = 'center'>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guglieee&theme=github_dark&hide_border=true"
