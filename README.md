@@ -13,10 +13,5 @@
       src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
     />
   </a>
-  <a href="https://devvolt.dev/portfolio/gugliee">
-    <img
-      alt="Donate"
-      src="https://img.shields.io/badge/kofi-2BB3EE?logo=kofi&logoColor=white&style=for-the-badge"
-    />
-  </a>
+  [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/cqjy.svg)](https://betteruptime.com/?utm_source=status_badge)
 </p>
